@@ -2,4 +2,4 @@
 
 > - [dotnettutorials.net](https://dotnettutorials.net/course/linq/) ve [tutorialsteacher.com](https://www.tutorialsteacher.com/linq) platformlarında yayınlanan LINQ serilerini okuyarak ve öğrendiklerimi console uygulamalarında test ederek LINQ öğrenme serüvenim...
 
-> - Tamamlanma Oranı: %39,99
+> - Tamamlanma Oranı: %43,07
